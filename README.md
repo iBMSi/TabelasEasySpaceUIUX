@@ -7,6 +7,7 @@ Neste repositório estão os documentos usados para a analise e desenvolvimento 
 
 Neste documento estão as tabelas com os dados usados nos testes de usabilidade do projeto, com os testes de usuario, seus feedbacks entre outros
 
+----------------------------------------------------------
 
 [TesteDeUsabilidadeUiUX.xlsx](https://github.com/user-attachments/files/23401856/TesteDeUsabilidadeUiUX.xlsx)
 Este documento reúne os resultados obtidos durante os testes de usabilidade realizados com três usuários do sistema EasySpace.
