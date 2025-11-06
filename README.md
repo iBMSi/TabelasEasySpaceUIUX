@@ -22,3 +22,10 @@ Desempenho por Tarefa: detalha o tempo e o sucesso dos usuários ao realizar tar
 Problemas e Ações Recomendadas: consolida os principais problemas identificados durante os testes, com avaliação de severidade, frequência, prioridade e sugestões de melhorias.
 
 O objetivo deste relatório é apoiar o aprimoramento contínuo da interface e da experiência do usuário, garantindo maior eficiência, clareza e satisfação no uso do EasySpace.
+
+----------------------------------------
+# Feedback e Consentimento:
+<img width="605" height="314" alt="image" src="https://github.com/user-attachments/assets/ad43f257-65c3-4f54-b293-fe66c059f594" />
+
+Acima está o termo de concentimento assinalado por nossos usuarios testes
+
