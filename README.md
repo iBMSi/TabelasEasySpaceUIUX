@@ -10,6 +10,7 @@ Neste documento estão as tabelas com os dados usados nos testes de usabilidade 
 ----------------------------------------------------------
 
 [TesteDeUsabilidadeUiUX.xlsx](https://github.com/user-attachments/files/23401856/TesteDeUsabilidadeUiUX.xlsx)
+
 Este documento reúne os resultados obtidos durante os testes de usabilidade realizados com três usuários do sistema EasySpace.
 
 As análises foram divididas em três partes principais:
