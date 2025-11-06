@@ -31,7 +31,7 @@ Acima está o termo de concentimento assinalado por nossos usuarios testes
 link do forms: https://forms.office.com/r/BJ4ih71XLQ?origin=lprLink
 
 -------------------------------------------------
-#Documento Técnico do Projeto EasySpace
+# Documento Técnico do Projeto EasySpace
 
 O presente documento reúne todas as etapas de desenvolvimento do projeto EasySpace, desde a concepção da ideia até os testes de usabilidade aplicados ao protótipo funcional. Seu objetivo é registrar de forma estruturada o processo de design, análise e validação da experiência do usuário (UX/UI) da plataforma.
 
