@@ -28,4 +28,5 @@ O objetivo deste relatório é apoiar o aprimoramento contínuo da interface e d
 <img width="958" height="435" alt="image" src="https://github.com/user-attachments/assets/ab9266ca-dc9b-4bf2-91f8-b5f72252af8c" />
 
 Acima está o termo de concentimento assinalado por nossos usuarios testes
+link do forms: https://forms.office.com/r/BJ4ih71XLQ?origin=lprLink
 
