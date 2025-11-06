@@ -25,7 +25,7 @@ O objetivo deste relatório é apoiar o aprimoramento contínuo da interface e d
 
 ----------------------------------------
 # Feedback e Consentimento:
-<img width="605" height="314" alt="image" src="https://github.com/user-attachments/assets/ad43f257-65c3-4f54-b293-fe66c059f594" />
+<img width="958" height="435" alt="image" src="https://github.com/user-attachments/assets/ab9266ca-dc9b-4bf2-91f8-b5f72252af8c" />
 
 Acima está o termo de concentimento assinalado por nossos usuarios testes
 
