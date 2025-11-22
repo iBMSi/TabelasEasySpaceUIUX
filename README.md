@@ -87,14 +87,17 @@ A interface A apresentou clareza suficiente nos textos, botões e rótulos? ( ) 
 A interface B apresentou clareza suficiente nos textos, botões e rótulos? ( ) Sim ( ) Não
 
 Após testar ambas, você percebeu preferência consciente por alguma das versões (independentemente de qual seja)? ( ) Sim ( ) Não
+------------------------------------------------------------------------------------
 
 Avaliação de Usabilidade – EasySpace (Versão A x Versão B)
-1. Contexto da Alteração
+
+
+Contexto da Alteração
 
 Uma nova proposta de navegação (Versão B) foi desenvolvida para o EasySpace com o objetivo de testar possíveis melhorias no fluxo de uso, disposição dos elementos e clareza geral da interface.
 Após implementar essa variação, foi conduzido um teste comparativo entre a interface original (A) e a interface redesenhada (B).
 
-2. Metodologia do Teste
+Metodologia do Teste
 
 O teste consistiu em:
 
@@ -108,7 +111,7 @@ Coleta de comentários qualitativos dos participantes.
 
 Registro dos resultados e análise das percepções de navegação, clareza e facilidade de uso.
 
-3. Respostas dos Usuários
+Respostas dos Usuários
 
 Os três participantes forneceram feedbacks após o uso das duas interfaces. As respostas foram as seguintes:
 
@@ -116,7 +119,7 @@ Usuário 1: relatou não perceber grandes diferenças entre as interfaces, mas a
 Usuário 2: afirmou que ambas eram utilizáveis, porém identificou a versão B como menos intuitiva, preferindo novamente a versão original (A).
 Usuário 3: destacou dificuldades de navegação na versão B, especialmente pela posição do botão de aluguel, considerando a navegação da versão A mais confortável e escolhendo-a como preferida.
 
-4. Conclusão
+Conclusão
 
 Com base na análise unificada das respostas dos três participantes, observa-se que:
 
