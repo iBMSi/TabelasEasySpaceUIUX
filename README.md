@@ -49,7 +49,7 @@ Por fim, a Etapa 5 consolidou a aplicação de testes de usabilidade com três p
 Este documento técnico representa a integração entre design, usabilidade e análise funcional, evidenciando a evolução do EasySpace como uma plataforma intuitiva, acessível e centrada nas necessidades do usuário.
 
 
-Teste de Usabilidade alternativo (B)
+#Teste de Usabilidade alternativo (B)
 
 Após o desenvolvimento da Versão B do EasySpace, foram realizadas alterações no design de navegação com o objetivo de melhorar o fluxo de uso e a organização das interfaces. Essa versão foi então submetida a um Teste de Usabilidade A/B, conforme as orientações da atividade acadêmica.
 
