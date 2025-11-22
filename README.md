@@ -56,11 +56,14 @@ Após o desenvolvimento da Versão B do EasySpace, foram realizadas alterações
 
 Três participantes representando o público-alvo realizaram tarefas previamente definidas utilizando exclusivamente a interface B. Durante o processo, as interações foram observadas sem interferência, e ao final cada usuário respondeu ao formulário SUS (System Usability Scale), permitindo a avaliação quantitativa da experiência.
 
+-------------------------------------------------------------------------------
 Resultados Obtidos – Versão B
 
 [PerguntasUsabilidade(A-B).xlsx](https://github.com/user-attachments/files/23691089/PerguntasUsabilidade.A-B.xlsx)
 
 Neste documento estão contidos as perguntas e respostas dos usuarios a respeito do teste com a versão alternativa de navegação do projeto
+
+--------------------------------------------------------------------------------
 
 
 As pontuações registradas no teste estão apresentadas na tabela de usabilidade, resultando nos seguintes valores:
