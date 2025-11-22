@@ -57,6 +57,7 @@ Após o desenvolvimento da Versão B do EasySpace, foram realizadas alterações
 Três participantes representando o público-alvo realizaram tarefas previamente definidas utilizando exclusivamente a interface B. Durante o processo, as interações foram observadas sem interferência, e ao final cada usuário respondeu ao formulário SUS (System Usability Scale), permitindo a avaliação quantitativa da experiência.
 
 Resultados Obtidos – Versão B
+[PerguntasUsabilidade(A-B).xlsx](https://github.com/user-attachments/files/23691089/PerguntasUsabilidade.A-B.xlsx)
 
 As pontuações registradas no teste estão apresentadas na tabela de usabilidade, resultando nos seguintes valores:
 Usuário A — SUS 80 — “Excelente, apenas requer funcionalidades”
@@ -65,4 +66,64 @@ Usuário B — SUS 72 — “Bom”
 
 Usuário C — SUS 65 — “Útil, mas design não intuitivo”
 
+# Perguntas feitas para avaliação das versões alternativas
+
+Você conseguiu identificar diferenças claras entre as interfaces A e B? ( ) Sim ( ) Não
+
+A interface A permitiu que você realizasse as tarefas sem precisar de ajuda? ( ) Sim ( ) Não
+
+A interface B permitiu que você realizasse as tarefas sem precisar de ajuda? ( ) Sim ( ) Não
+
+Você sentiu que a interface A manteve um fluxo contínuo durante o uso? ( ) Sim ( ) Não
+
+Você sentiu que a interface B manteve um fluxo contínuo durante o uso? ( ) Sim ( ) Não
+
+Você conseguiu localizar os elementos principais da interface A sem esforço excessivo? ( ) Sim ( ) Não
+
+Você conseguiu localizar os elementos principais da interface B sem esforço excessivo? ( ) Sim ( ) Não
+
+A interface A apresentou clareza suficiente nos textos, botões e rótulos? ( ) Sim ( ) Não
+
+A interface B apresentou clareza suficiente nos textos, botões e rótulos? ( ) Sim ( ) Não
+
+Após testar ambas, você percebeu preferência consciente por alguma das versões (independentemente de qual seja)? ( ) Sim ( ) Não
+
+Avaliação de Usabilidade – EasySpace (Versão A x Versão B)
+1. Contexto da Alteração
+
+Uma nova proposta de navegação (Versão B) foi desenvolvida para o EasySpace com o objetivo de testar possíveis melhorias no fluxo de uso, disposição dos elementos e clareza geral da interface.
+Após implementar essa variação, foi conduzido um teste comparativo entre a interface original (A) e a interface redesenhada (B).
+
+2. Metodologia do Teste
+
+O teste consistiu em:
+
+Apresentação das duas interfaces (A e B) para os usuários.
+
+Realização de tarefas práticas em ambas as versões.
+
+Aplicação de um questionário com perguntas de resposta Sim/Não, estruturado para ser totalmente imparcial e não induzir preferências.
+
+Coleta de comentários qualitativos dos participantes.
+
+Registro dos resultados e análise das percepções de navegação, clareza e facilidade de uso.
+
+3. Respostas dos Usuários
+
+Os três participantes forneceram feedbacks após o uso das duas interfaces. As respostas foram as seguintes:
+
+Usuário 1: relatou não perceber grandes diferenças entre as interfaces, mas ainda assim considerou a versão original (A) um pouco mais intuitiva, mantendo preferência por ela.
+Usuário 2: afirmou que ambas eram utilizáveis, porém identificou a versão B como menos intuitiva, preferindo novamente a versão original (A).
+Usuário 3: destacou dificuldades de navegação na versão B, especialmente pela posição do botão de aluguel, considerando a navegação da versão A mais confortável e escolhendo-a como preferida.
+
+4. Conclusão
+
+Com base na análise unificada das respostas dos três participantes, observa-se que:
+
+Todos os usuários mantiveram a interface A como a opção preferida após o teste.
+
+A versão B foi considerada funcional, porém menos intuitiva e com elementos de navegação percebidos como menos naturais.
+Esses resultados indicam que a interface atual (A) apresenta maior clareza, organização e conforto de uso, sendo a versão mais adequada conforme a percepção do público testado.
+
 Os resultados indicam que a Versão B apresentou boa aceitação geral pelos usuários, demonstrando evolução em relação à navegação. Ainda assim, os feedbacks apontam oportunidades de melhoria no design e na intuitividade da interface.
+
