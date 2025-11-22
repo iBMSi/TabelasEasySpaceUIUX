@@ -60,7 +60,9 @@ Resultados Obtidos – Versão B
 
 As pontuações registradas no teste estão apresentadas na tabela de usabilidade, resultando nos seguintes valores:
 Usuário A — SUS 80 — “Excelente, apenas requer funcionalidades”
+
 Usuário B — SUS 72 — “Bom”
+
 Usuário C — SUS 65 — “Útil, mas design não intuitivo”
 
 Os resultados indicam que a Versão B apresentou boa aceitação geral pelos usuários, demonstrando evolução em relação à navegação. Ainda assim, os feedbacks apontam oportunidades de melhoria no design e na intuitividade da interface.
