@@ -1,3 +1,29 @@
+Sumário
+
+TabelasEasySpaceUIUX
+1.1. Plano de Teste
+1.2. Teste de Funcionalidade (vídeo Solaris)
+1.3. Resultados do Teste de Usabilidade
+1.4. Feedback e Termo de Consentimento
+
+Documento Técnico do Projeto EasySpace
+2.1. Etapa 1 – Identificação do Grupo e Responsabilidades
+2.2. Etapa 2 – Público-Alvo, Personas e Jornada do Usuário
+2.3. Etapa 3 – Diagramas UML
+2.4. Etapa 4 – Verificação de Conformidade (WCAG 2.1 e ISO 9241-210)
+2.5. Etapa 5 – Testes de Usabilidade (SUS, tarefas e ações corretivas)
+
+Teste de Usabilidade Alternativo (Versão B)
+3.1. Interface Alternativa – Imagens e Descrição
+3.2. Metodologia do Teste A/B
+3.3. Perguntas Aplicadas aos Usuários
+3.4. Resultados SUS – Versão B
+3.5. Documento de Perguntas e Respostas
+3.6. Feedback dos Três Participantes
+3.7. Conclusão Comparativa entre Versões A e B
+
+--------------------------------------------------------------------------------------
+
 # TabelasEasySpaceUIUX
 Neste repositório estão os documentos usados para a analise e desenvolvimento de dados do projeto de StartUp EasySpace, focados na modelagem de Ui/Ux
 
