@@ -50,13 +50,13 @@ Este documento técnico representa a integração entre design, usabilidade e an
 
 
 # Teste de Usabilidade alternativo (B)
+<img width="1892" height="1314" alt="EasySpaceB" src="https://github.com/user-attachments/assets/18ed306c-b57f-4a7d-b80d-45ac1f247b59" />
 
 Após o desenvolvimento da Versão B do EasySpace, foram realizadas alterações no design de navegação com o objetivo de melhorar o fluxo de uso e a organização das interfaces. Essa versão foi então submetida a um Teste de Usabilidade A/B, conforme as orientações da atividade acadêmica.
 
 Três participantes representando o público-alvo realizaram tarefas previamente definidas utilizando exclusivamente a interface B. Durante o processo, as interações foram observadas sem interferência, e ao final cada usuário respondeu ao formulário SUS (System Usability Scale), permitindo a avaliação quantitativa da experiência.
 
 Resultados Obtidos – Versão B
-<img width="1892" height="1314" alt="EasySpaceB" src="https://github.com/user-attachments/assets/18ed306c-b57f-4a7d-b80d-45ac1f247b59" />
 
 As pontuações registradas no teste estão apresentadas na tabela de usabilidade, resultando nos seguintes valores:
 Usuário A — SUS 80 — “Excelente, apenas requer funcionalidades”
