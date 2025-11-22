@@ -87,6 +87,7 @@ A interface A apresentou clareza suficiente nos textos, botões e rótulos? ( ) 
 A interface B apresentou clareza suficiente nos textos, botões e rótulos? ( ) Sim ( ) Não
 
 Após testar ambas, você percebeu preferência consciente por alguma das versões (independentemente de qual seja)? ( ) Sim ( ) Não
+
 ------------------------------------------------------------------------------------
 
 Avaliação de Usabilidade – EasySpace (Versão A x Versão B)
